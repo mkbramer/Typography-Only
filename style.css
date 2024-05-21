@@ -1,0 +1,93 @@
+/* ✅ Topic and Content */
+/* ✅ Style Tile */
+/* ✅ Setup on GitHub */
+/* ✅ Setup on Netlify */
+/* [ ] CSS Variables */
+
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
+
+:root {
+  --color1: #011802;
+  --color2: #B2B2F9;
+  --color3: #FbbFb6;
+  --primaryfont: "Lora", serif;
+}
+
+body {
+  font-family: "Lora";
+  background: background: #373B44;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #4286f4, #373B44);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #4286f4, #373B44); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: #373B44;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #4286f4, #373B44);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #4286f4, #373B44); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: #373B44;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #4286f4, #373B44);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #4286f4, #373B44); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: #373B44;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #4286f4, #373B44);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #4286f4, #373B44); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: #373B44;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #4286f4, #373B44);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #4286f4, #373B44); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: #373B44;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #4286f4, #373B44);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #4286f4, #373B44); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+; 
+}
+
+h1 {
+  color: var(--color2);
+  text-align: right;
+}
+
+h2 {
+  color: var(--color2;)
+}
+
+li {
+  color: var(--color2);
+}
+
+p {
+  color: var(--color3);
+  padding: 12px;
+}
+
+blockquote {
+  border-left: solid 10px var(--color2);
+  padding-left: 15px;
+  Padding-top: 12px;
+  color:  var(--color3);
+}
+
+main { 
+width: 34%;
+margin: 0 auto 0 auto; 
+padding: 53px;
+
+background: #ffffff54
+
+}
+
+span {
+  background: var(--color2); 
+  margin: 20px;
+  padding: 20px; 
+  
+  
+  Font-size: 2rem;
+  float: left;
+}
+
+main {
+  position: relative;
+}
+
+h1 {
+  background: var(--color1);
+  top: 0; 
+  right: -140px;
+  position: absolute;
+}
